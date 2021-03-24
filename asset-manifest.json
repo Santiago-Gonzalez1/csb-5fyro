@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://santiago-gonzalez1.github.io/csb-5fyro/static/css/main.b3870deb.chunk.css",
+    "main.js": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/main.8cfced49.chunk.js",
+    "main.js.map": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/main.8cfced49.chunk.js.map",
+    "runtime-main.js": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/runtime-main.a073e2b5.js",
+    "runtime-main.js.map": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/runtime-main.a073e2b5.js.map",
+    "static/js/2.0c10b05c.chunk.js": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/2.0c10b05c.chunk.js",
+    "static/js/2.0c10b05c.chunk.js.map": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/2.0c10b05c.chunk.js.map",
+    "index.html": "https://santiago-gonzalez1.github.io/csb-5fyro/index.html",
+    "static/css/main.b3870deb.chunk.css.map": "https://santiago-gonzalez1.github.io/csb-5fyro/static/css/main.b3870deb.chunk.css.map",
+    "static/js/2.0c10b05c.chunk.js.LICENSE.txt": "https://santiago-gonzalez1.github.io/csb-5fyro/static/js/2.0c10b05c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a073e2b5.js",
+    "static/js/2.0c10b05c.chunk.js",
+    "static/css/main.b3870deb.chunk.css",
+    "static/js/main.8cfced49.chunk.js"
+  ]
+}
